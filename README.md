@@ -1,11 +1,11 @@
 # medical-cost-prediction-linear-ridge-lasso-reg
 sigorta fiyatı tahmini
 
-#amaç
+# amaç
 kişinin yaşı,cinsiyeti,vücut kitle endexi, bakmakal yükümlü olduğu çocuk sayısı, sigara içme surumu 
 ve yaşadığı bölgeye göre sigorta fiyatı tahmini yapan model.
 
-#kullanılan kütüphaneler 
+# kullanılan kütüphaneler 
 --pandas--
 --numpy--
 --matplotlib--
